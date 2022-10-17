@@ -16,8 +16,8 @@ Scrape the titles and preview text from Mars news articles
 Website: https://redplanetscience.com/
 
 ### Deliverable 2:
-Scrape the data on Mars temperature.
-Website: https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html
+Scrape the data on Mars temperature.<br>
+Website: https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html<br>
 Used the data collected and created data visuals to answer the following questions:
 - How many months exist on Mars? <em>12</em>
 - How many Martian days worth of data is has been collected? <em>1967</em>
