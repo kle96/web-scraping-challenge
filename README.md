@@ -12,7 +12,7 @@ Practice web scraping by extracting information and data from two Mars related w
 - Matplotlib for data visualizations
 
 ### Deliverable 1:
-Scrape the titles and preview text from Mars news articles
+Scrape the titles and preview text from Mars news articles<br>
 Website: https://redplanetscience.com/
 
 ### Deliverable 2:
